@@ -1,6 +1,6 @@
 # Project Title
 
-A brief description of what this project does and who it's for.
+Feedback Auswertung mit Pandas in Python
 
 ## Description
 
@@ -27,4 +27,4 @@ python -m venv .venv
 source .venv/bin/activate
 
 # Install the dependencies
-pip install -r [requirements.txt](http://_vscodecontentref_/1)
+pip install -r requirements.txt
